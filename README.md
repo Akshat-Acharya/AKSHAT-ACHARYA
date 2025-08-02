@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Acharya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat-acharya" alt="akshat-acharya" /></a> </p>
 
@@ -29,4 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-acharya&show_icons=true&locale=en" alt="akshat-acharya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-acharya&" alt="akshat-acharya" /></p>
+
 
