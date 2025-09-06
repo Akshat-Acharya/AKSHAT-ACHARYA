@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a platform named **GeeksPerHour**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Gen Ai**
 
 - 👯 I’m looking to collaborate in **hackathons**
 
@@ -29,5 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-acharya&show_icons=true&locale=en" alt="akshat-acharya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-acharya&" alt="akshat-acharya" /></p>
+
 
 
